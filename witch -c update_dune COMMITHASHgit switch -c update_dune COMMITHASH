@@ -1,0 +1,42 @@
+[33mcommit 65448cbe2f4b148987e4877667cc9ced69a95266[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: francojuandaniel090 <francojuandaniel@gmail.com>
+Date:   Wed Apr 8 17:39:46 2026 -0500
+
+    G: final movie
+
+[33mcommit d0f4d106d204712922410bcf0a6e031011ff1041[m
+Merge: bb096a3 de570e9
+Author: francojuandaniel090 <francojuandaniel@gmail.com>
+Date:   Wed Apr 8 17:28:49 2026 -0500
+
+    F:Merge branch 'add_classics'
+
+[33mcommit bb096a3fe6c8784fadb45a331197819fcf0eec2f[m
+Author: francojuandaniel090 <francojuandaniel@gmail.com>
+Date:   Wed Apr 8 17:23:31 2026 -0500
+
+    E: branches
+
+[33mcommit de570e926e66643b86767a424a1145d7033b9783[m
+Author: francojuandaniel090 <francojuandaniel@gmail.com>
+Date:   Wed Apr 8 12:37:58 2026 -0500
+
+    D: classic_lit
+
+[33mcommit d73c4d6199b8ba2aeed7ed3e223567e515fbb07a[m
+Author: francojuandaniel090 <francojuandaniel@gmail.com>
+Date:   Tue Apr 7 12:27:33 2026 -0500
+
+    C: add quotes
+
+[33mcommit adf3068d18b509d0b7d4fa88e4fd7105dd8dfb6b[m
+Author: francojuandaniel090 <francojuandaniel@gmail.com>
+Date:   Mon Apr 6 18:11:25 2026 -0500
+
+    B: add title
+
+[33mcommit 97076019deace317ed3dd0020fc0d1a83799ab6b[m
+Author: francojuandaniel090 <francojuandaniel@gmail.com>
+Date:   Mon Apr 6 17:33:25 2026 -0500
+
+    A: add contents.md
